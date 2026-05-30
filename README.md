@@ -45,11 +45,23 @@
 
 ## Output
 
-<img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/2b2a090c-be63-4d49-99fa-8c578894efad" />
-
-
 ### Name: VENKATANATHAN P R
 ### Register Number: 212223240173
 
+
+### Velocity analysis of Slider crank mechanism:
+
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/d13e3496-e584-49c5-a34f-fe08bac70184" />
+
+<img width="1919" height="855" alt="image" src="https://github.com/user-attachments/assets/2366272a-d536-4b7b-b0f4-8ba256c49134" />
+
+### Acceleration analysis of Slider crank mechanism:
+
+<img width="1919" height="744" alt="image" src="https://github.com/user-attachments/assets/55164da7-c85c-48ba-b30b-cf01d5562ab4" />
+
+<img width="1919" height="852" alt="image" src="https://github.com/user-attachments/assets/85b65b3d-fa83-4918-a847-01ad15443e8d" />
+
+<img width="1865" height="912" alt="image" src="https://github.com/user-attachments/assets/9ef34ec2-387d-49f7-a152-43da96ba48fa" />
+
 ## RESULT:
-### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
+Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
